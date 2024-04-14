@@ -1,62 +1,39 @@
-job_name,job_location,company_name
-Data Analyst in BPO Set-up,Cebu City,XtendOps
-Data Analyst,Cebu,Virtual Business Partners
-Data Analyst | Business Analyst,Cebu City,"Ruralnet, Inc."
-Supply Chain Data Analyst,Mandaue City,CMPi
-Data Analyst,Cebu City,Channel Precision Inc.
-Data Governance Data Analyst | Hybrid,Cebu City,Lexmark Research & Development Corporation
-Logistics Data Analyst - EMEA & AMR,6000,Trax Group
-Business Analyst,Cebu City,NORTH TREND MARKETING CORPORATION
-"Software Business Analyst (on-site, Shifts, Cebu City)",Cebu City,DNA MICRO SOFTWARE INC.
-Sr. Business Analyst-Cebu City,Cebu City,Tech Mahindra Ltd.
-Data Governance Data Analyst,Cebu,"Lexmark International, Inc."
-Revenue Data Analyst,Cebu City,Lexmark Research & Development Corporation
-Data Analyst,Cebu City,HawodTech Solutions
-Business Analyst - Services | Hybrid,Cebu City,Lexmark Research & Development Corporation
-"Data Analyst- Online Marketing (Remote, Philippines)",Remote in Cebu City,LegalMatch.com
-Sourcing to Pay Business Analyst,Cebu,"Lexmark International, Inc."
-Data Scientist - Cebu,Cebu City,"Reeracoen Philippines, Inc."
-Machine Learning Engineer,Danao,MinebeaMitsumi Cebu
-Data Scientist (AI) - 45828,Cebu City,RCN PH NCareer
-Data Engineer - Operations,Philippines,Signant Health
-AI Data Engineer,Cebu City,Kinettix
-Regional Data Engineer,Cebu,"Kuehne + Nagel, Inc."
-Business Intelligence Developer / Data Engineer,Lapu-Lapu City,Teradyne
-Artificial Intelligence Engineer- MinebeaMitsumi Global Support Center (Philippines),Danao,MinebeaMitsumi Cebu
-Data Scientist,"Cebu City, Cebu",Helpmate Incorporated
-Data Analyst,"Mandaue City, Cebu",Cebu Home and Builders Centre
-Data Analyst,"Cebu City, Cebu",Channel Precision Inc.
-Work from Home! Experienced Data Analyst,Home-based,VOsquared LLC
-Business Analyst,"Cebu City, Cebu",TvStartup Inc
-Machine Learning Engineer,"Cebu City, Cebu","Cebu Mitsumi, Inc."
-Data and Reports Analyst,Lapu-Lapu City,Dynata Philippines Inc.
-Business Analyst,Cebu City,NORTH TREND MARKETING CORPORATION
-Business Analyst,Cebu City,"Ramon Aboitiz Foundation, Inc."
-IT Data Analyst,Cebu City,TOA Global
-Data Governance Data Analyst | Hybrid,Cebu City,Lexmark Research & Development Corporation
-Software Business Analyst,Cebu City,DNA MICRO SOFTWARE INC.
-Business Analyst - Supply Chain | Hybrid,Cebu City,Lexmark Research & Development Corporation
-Business Analyst - Sourcing to Pay | Hybrid,Cebu City,Lexmark Research & Development Corporation
-Business Analyst - Services | Hybrid,Cebu City,Lexmark Research & Development Corporation
-Software Project Manager / Scrum Master / Business Analyst (Remote Set-up),Cebu City,Arcanys
-Business Analyst - Reporting Insights (Excel) | CEBU,Cebu City,"REALPAGE (PHILIPPINES), INC."
-AI Data Engineer,Cebu,Kinettix Inc. (Philippines)
-Revenue Data Analyst | Hybrid,Cebu City,Lexmark Research & Development Corporation
-Sr. Business Analyst-Cebu City,Cebu,Tech Mahindra Ltd.
-Data Engineer,Cebu City,GHD Pty Ltd
-Salesforce Business Analyst (Remote) | CEBU,Cebu City,"REALPAGE (PHILIPPINES), INC."
-Implementation Data Analyst | CEBU,Cebu City,"REALPAGE (PHILIPPINES), INC."
-ServiceNow Senior Business Analyst (Cebu-based),Cebu City,EY GLOBAL DELIVERY SERVICES (GDS) PHILIPPINES
-Data Analyst,Cebu City,"Ruralnet, Inc."
-DATA ANALYST,Cebu,Arcenas Development Corporation
-IT Sr. Data Engineer,Tipolo,Prince Retail Group of Companies
-Data Engineer,Cebu City,Advanced World Systems Inc.
-Regional Data Engineer,Cebu,"Kuehne + Nagel, Inc."
-Data Scientist,Cebu City,Advanced World Systems Inc.
-Data Engineer Consultant - Cebu,Cebu City,"Reeracoen Philippines, Inc."
-Data Scientist - Cebu,Cebu City,"Reeracoen Philippines, Inc."
-Business Intelligence-Data Scientist,Cebu City,Qualfon
-Artificial Intelligence Engineer,Danao City,MinebeaMitsumi Philippines
-Machine Learning Engineer,Danao City,MinebeaMitsumi Philippines
-Artificial Intelligence Engineer- - MinebeaMitsumi Global Support Center (PH),Danao City,MinebeaMitsumi Philippines
-Data Analyst,Cebu City,VBP
+company_name,job_name,job_location
+Advanced World Systems Inc.,"['Data Engineer', 'Data Scientist']",['Cebu City']
+Arcanys,['Software Project Manager / Scrum Master / Business Analyst (Remote Set-up)'],['Cebu City']
+Arcenas Development Corporation,['DATA ANALYST'],['Cebu']
+CMPi,['Supply Chain Data Analyst'],['Mandaue City']
+Cebu Home and Builders Centre,['Data Analyst'],"['Mandaue City, Cebu']"
+"Cebu Mitsumi, Inc.",['Machine Learning Engineer'],"['Cebu City, Cebu']"
+Channel Precision Inc.,['Data Analyst'],"['Cebu City, Cebu', 'Cebu City']"
+DNA MICRO SOFTWARE INC.,"['Software Business Analyst (on-site, Shifts, Cebu City)', 'Software Business Analyst']",['Cebu City']
+Dynata Philippines Inc.,['Data and Reports Analyst'],['Lapu-Lapu City']
+EY GLOBAL DELIVERY SERVICES (GDS) PHILIPPINES,['ServiceNow Senior Business Analyst (Cebu-based)'],['Cebu City']
+GHD Pty Ltd,['Data Engineer'],['Cebu City']
+HawodTech Solutions,['Data Analyst'],['Cebu City']
+Helpmate Incorporated,['Data Scientist'],"['Cebu City, Cebu']"
+Kinettix,['AI Data Engineer'],['Cebu City']
+Kinettix Inc. (Philippines),['AI Data Engineer'],['Cebu']
+"Kuehne + Nagel, Inc.",['Regional Data Engineer'],['Cebu']
+LegalMatch.com,"['Data Analyst- Online Marketing (Remote, Philippines)']",['Remote in Cebu City']
+"Lexmark International, Inc.","['Sourcing to Pay Business Analyst', 'Data Governance Data Analyst']",['Cebu']
+Lexmark Research & Development Corporation,"['Revenue Data Analyst | Hybrid', 'Data Governance Data Analyst | Hybrid', 'Revenue Data Analyst', 'Business Analyst - Services | Hybrid', 'Business Analyst - Supply Chain | Hybrid', 'Business Analyst - Sourcing to Pay | Hybrid']",['Cebu City']
+MinebeaMitsumi Philippines,"['Machine Learning Engineer', 'Artificial Intelligence Engineer', 'Artificial Intelligence Engineer- MinebeaMitsumi Global Support Center (Philippines)', 'Artificial Intelligence Engineer- - MinebeaMitsumi Global Support Center (PH)']","['Danao', 'Danao City']"
+NORTH TREND MARKETING CORPORATION,['Business Analyst'],['Cebu City']
+Prince Retail Group of Companies,['IT Sr. Data Engineer'],['Tipolo']
+Qualfon,['Business Intelligence-Data Scientist'],['Cebu City']
+RCN PH NCareer,['Data Scientist (AI) - 45828'],['Cebu City']
+"REALPAGE (PHILIPPINES), INC.","['Implementation Data Analyst | CEBU', 'Business Analyst - Reporting Insights (Excel) | CEBU', 'Salesforce Business Analyst (Remote) | CEBU']",['Cebu City']
+"Ramon Aboitiz Foundation, Inc.",['Business Analyst'],['Cebu City']
+"Reeracoen Philippines, Inc.","['Data Scientist - Cebu', 'Data Engineer Consultant - Cebu']",['Cebu City']
+"Ruralnet, Inc.","['Data Analyst', 'Data Analyst | Business Analyst']",['Cebu City']
+Signant Health,['Data Engineer - Operations'],['Philippines']
+TOA Global,['IT Data Analyst'],['Cebu City']
+Tech Mahindra Ltd.,['Sr. Business Analyst-Cebu City'],"['Cebu City', 'Cebu']"
+Teradyne,['Business Intelligence Developer / Data Engineer'],['Lapu-Lapu City']
+Trax Group,['Logistics Data Analyst - EMEA & AMR'],['6000']
+TvStartup Inc,['Business Analyst'],"['Cebu City, Cebu']"
+VBP,['Data Analyst'],['Cebu City']
+VOsquared LLC,['Work from Home! Experienced Data Analyst'],['Home-based']
+Virtual Business Partners,['Data Analyst'],['Cebu']
+XtendOps,['Data Analyst in BPO Set-up'],['Cebu City']
